@@ -1,0 +1,39 @@
+footer {  
+  /* Height of the footer*/ 
+  height: 40px;
+  background: grey}
+
+header { margin-top: 20px ; padding-left: 10px; position: relative}
+
+body
+{
+Overflow-x:auto;
+background-color: cadetblue;
+}
+h1{
+  color: blueviolet;
+}
+#logid{
+text-align: center;
+position: center;
+margin: auto;
+}
+label{
+  text-align: center;
+}
+.rightcolumn {
+  float: right;
+  width: 25%;
+  padding-right: 20px;
+}
+.leftcolumn {
+  float: left;
+  width: 25%;
+  padding-left: 20px;
+}
+p {color: black }
+@media (min-width: 768px) {
+    .bd-placeholder-img-lg {
+      font-size: 3 rem;
+    }
+  }
